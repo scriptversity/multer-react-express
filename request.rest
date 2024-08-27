@@ -1,0 +1,2 @@
+### delete
+DELETE http://localhost:8000/delete_file/file-1724790913553-354998476.png
